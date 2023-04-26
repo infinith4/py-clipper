@@ -7,3 +7,5 @@ poetry new test_app
 poetry add fastapi uvicorn[standard] gunicorn
 
 poetry shell
+
+poetry add PySimpleGUI
